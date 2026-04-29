@@ -1,0 +1,33 @@
+Reference,Value,Footprint,Qty,Description
+"C1,C2",100 nF,IUT_CAO_empreintes:C_Disc_D4.7mm_W2.5mm_P5.00mm,2,Unpolarized capacitor
+C3,10 nF,IUT_CAO_empreintes:C_Disc_D4.7mm_W2.5mm_P5.00mm,1,Unpolarized capacitor
+"C4,C5",20pF,Capacitor_SMD:C_0603_1608Metric,2,Unpolarized capacitor
+C21,1uF,IUT_CAO_empreintes:CP_Radial_D6.3mm_P2.50mm,1,polarized capacitor
+D1,1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,1,"100V 0.15A standard switching diode, DO-35"
+D5,LED,IUT_CAO_empreintes:LED_D5.0mm,1,
+"J1,J2",Screw_Terminal_01x03,"G207_Laury_empreintes:
+Bornier_1x03_L15mm_W7.5mm_P5.00mm",2,"Generic screw terminal, single row, 01x03"
+"J3,J6",Conn_01x08_Socket,"Connector_PinHeader_2.54mm:
+PinHeader_1x08_P2.54mm_Vertical",2,"Generic connector, single row, 01x08, script generated"
+"J4,J8",Conn_01x05_Socket,"Connector_PinHeader_2.54mm:
+PinHeader_1x05_P2.54mm_Vertical",2,"Generic connector, single row, 01x05, script generated"
+J7,Conn_01x06_Pin,IUT_CAO_empreintes:PinHeader_1x06_P2.54mm_Vertical,1,
+R14,47k,"G207_Laury_empreintes:
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",1,
+R17,270,"G207_Laury_empreintes:
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",1,
+"R18,R19",60,"G207_Laury_empreintes:
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",2,
+R20,300,"G207_Laury_empreintes:
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",1,
+SW2,SW_DIP_x02,"IUT_CAO_empreintes:
+SW_DIP_SPSTx02_Slide_7.5x7.01mm_W7.62mm_P2.54mm_LowProfile",1,"2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+"TP1,TP2",TestPoint,"IUT_CAO_empreintes:
+TestPoint_Loop_D2.50mm_Drill1.0mm",2,test point
+U1,PIC18F27Q84,PIC18F27Q84-E_SP:DIP787W45P254L3556H508Q28,1,
+U4,MCP2561-E-P,Package_DIP:DIP-8_W7.62mm_LongPads,1,"High-Speed CAN Transceiver, 1Mbps, 5V supply, -40C to +125C, DIP-8"
+U8,L7805,L7805CV:TO255P1040X460X1968-3,1,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"
+Y1,Crystal_GND23,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,"Four pin crystal, GND on pins 2 and 3"
+Screen,2.4” TFT LCD,4DLCD-24320240-IPS Arduino Shield Compatible,1,2.4” TFT LCD Arduino Shield Compatible
+GPS,Ublox NEO-6M,"Connector_PinHeader_2.54mm:
+PinHeader_1x04_P2.54mm_Vertical",1,Ublox NEO-6M based GPS board

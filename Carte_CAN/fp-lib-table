@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PIC18F27Q84-E_SP")(type "KiCad")(uri "${KIPRJMOD}/PIC18F27Q84-E_SP")(options "")(descr ""))
+  (lib (name "G207_Laury_empreintes")(type "KiCad")(uri "${KIPRJMOD}/G207_Laury_empreintes.pretty")(options "")(descr ""))
+  (lib (name "IUT_CAO_empreintes")(type "KiCad")(uri "${KIPRJMOD}/IUT_CAO_empreintes.pretty")(options "")(descr ""))
+  (lib (name "G208_Labed_empreintes")(type "KiCad")(uri "${KIPRJMOD}/G208_Labed_empreintes.pretty")(options "")(descr ""))
+  (lib (name "L7805CV")(type "KiCad")(uri "${KIPRJMOD}/L7805CV")(options "")(descr ""))
+)
